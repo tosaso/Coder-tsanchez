@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### icons material
+npm install @material-ui/core
+npm install @material-ui/icons
+
+## library and ussage
+https://material-ui.com/es/components/material-icons/
+https://material-ui.com/es/components/icons/#material-icons

@@ -1,11 +1,12 @@
 import './navbar.css'
+import ShoppingCartOutlinedIcon from '@material-ui/icons/ShoppingCartOutlined';
 
 
 function Navbar() {
     return(
         <header id="navbar">
             <h1 id="tittle">Codercoin</h1>
-            <ul>
+            <ul className="{classes.root}">
                 <li>
                     <a href="#">Home</a>
                 </li>
@@ -16,6 +17,7 @@ function Navbar() {
                     <a href="#">Contacto</a>
                 </li>
             </ul>
+            <ShoppingCartOutlinedIcon className="cart-icon"/>
         </header>
     );
 }

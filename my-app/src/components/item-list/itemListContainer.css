@@ -1,0 +1,8 @@
+#item-container {
+    display: flex;
+    justify-content: center;
+}
+
+#item-container p{
+    text-align: center;
+}
