@@ -1,4 +1,3 @@
-import './navbar.css'
 import ShoppingCartOutlinedIcon from '@material-ui/icons/ShoppingCartOutlined';
 
 

@@ -1,0 +1,43 @@
+@charset "UTF-8";
+#item-container  {
+  display: flex;
+  justify-content: center;
+}
+
+#item-container p {
+  text-align: center;
+}
+
+#navbar {
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: teal;
+}
+#navbar #tittle {
+  font-size: 24px;
+  margin: 0;
+  color: white;
+}
+#navbar ul {
+  display: flex;
+}
+#navbar ul li {
+  list-style: none;
+  padding: 0 1rem;
+}
+
+.cart-icon {
+  color: white;
+}
+
+#navbar ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+#navbar ul li a:hover {
+  color: white;
+  font-weight: bold;
+}

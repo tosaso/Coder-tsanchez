@@ -1,6 +1,3 @@
-import './itemListContainer.css'
-
-
 function ItemListContainer({greeting}) {
     return (
         <main id="item-container">
