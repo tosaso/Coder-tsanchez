@@ -1,0 +1,10 @@
+.itemCount{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    .countContainer{
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 1em;
+    }
+}

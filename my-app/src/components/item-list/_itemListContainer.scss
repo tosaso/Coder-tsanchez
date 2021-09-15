@@ -1,6 +1,8 @@
-#item-container {
+#itemContainer{
+    width: 100px;
+    margin: 0 auto;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     p{
         text-align: center;
     }
